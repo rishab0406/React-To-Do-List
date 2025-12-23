@@ -19,4 +19,5 @@ A simple to-do list web app built with React. Users can add tasks and remove tas
 ### Steps to run locally
 
 npm install
+
 npm run dev
